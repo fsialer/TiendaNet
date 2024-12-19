@@ -1,0 +1,7 @@
+C:\Users\asial\OneDrive\Desktop\csharp\ProyectoTienda\TiendaNet\bin\Release\net9.0\publish\TiendaNet.exe
+C:\Users\asial\OneDrive\Desktop\csharp\ProyectoTienda\TiendaNet\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\asial\OneDrive\Desktop\csharp\ProyectoTienda\TiendaNet\bin\Release\net9.0\publish\appsettings.json
+C:\Users\asial\OneDrive\Desktop\csharp\ProyectoTienda\TiendaNet\bin\Release\net9.0\publish\TiendaNet.dll
+C:\Users\asial\OneDrive\Desktop\csharp\ProyectoTienda\TiendaNet\bin\Release\net9.0\publish\TiendaNet.deps.json
+C:\Users\asial\OneDrive\Desktop\csharp\ProyectoTienda\TiendaNet\bin\Release\net9.0\publish\TiendaNet.runtimeconfig.json
+C:\Users\asial\OneDrive\Desktop\csharp\ProyectoTienda\TiendaNet\bin\Release\net9.0\publish\TiendaNet.pdb
